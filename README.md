@@ -4,15 +4,25 @@ Agile project plan template.
 
 /project-plan
 │
+
 ├── 0-PROJECT\_OVERVIEW\.md
+
 ├── 1-DELIVERABLES.md
+
 ├── 2-TIMELINE.md
+
 ├── 3-SCOPE.md
+
 ├── 4-TEAM\_ROLES.md
+
 ├── 5-RISKS.md
+
 ├── 6-COMMUNICATION\_PLAN.md
+
 ├── 7-BUDGET.md
+
 ├── 8-APPROVALS.md
+
 └── 9-CHANGELOG.md
 
 
