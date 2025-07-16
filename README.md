@@ -2,6 +2,7 @@
 
 Agile project plan template.
 
+`
 /project-plan
     │
     ├── 0-PROJECT_OVERVIEW.md
@@ -14,6 +15,7 @@ Agile project plan template.
     ├── 7-BUDGET.md
     ├── 8-APPROVALS.md
     └── 9-CHANGELOG.md
+`
 
 ### ✅ **Что должно быть в `PROJECT_OVERVIEW.md`** и кто его ведет.
 
