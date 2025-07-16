@@ -3,10 +3,9 @@
 Agile project plan template.
 
 /project-plan
+
 │
-
 ├── 0-PROJECT\_OVERVIEW\.md
-
 ├── 1-DELIVERABLES.md
 
 ├── 2-TIMELINE.md
