@@ -2,20 +2,21 @@
 
 Agile project plan template.
 
-`
+
 /project-plan
-    │
-    ├── 0-PROJECT_OVERVIEW.md
-    ├── 1-DELIVERABLES.md
-    ├── 2-TIMELINE.md
-    ├── 3-SCOPE.md
-    ├── 4-TEAM_ROLES.md
-    ├── 5-RISKS.md
-    ├── 6-COMMUNICATION_PLAN.md
-    ├── 7-BUDGET.md
-    ├── 8-APPROVALS.md
-    └── 9-CHANGELOG.md
-`
+│
+├── 0-PROJECT\_OVERVIEW\.md       # Обзор проекта: цели, видение, целевая аудитория, критерии успеха
+├── 1-DELIVERABLES.md           # Поставляемые результаты (deliverables) по этапам и версиям
+├── 2-TIMELINE.md               # Таймлайн проекта и ключевые даты (milestones)
+├── 3-SCOPE.md                  # Границы проекта: что входит и что исключено
+├── 4-TEAM\_ROLES.md             # Команда проекта и распределение ролей
+├── 5-RISKS.md                  # Реестр рисков проекта и планы их минимизации
+├── 6-COMMUNICATION\_PLAN.md     # План коммуникаций: форматы, каналы, частота взаимодействий
+├── 7-BUDGET.md                 # Бюджет проекта и распределение затрат
+├── 8-APPROVALS.md              # История всех утверждений и согласований по проекту
+└── 9-CHANGELOG.md              # История всех изменений проектной документации
+
+
 
 ### ✅ **Что должно быть в `PROJECT_OVERVIEW.md`** и кто его ведет.
 
